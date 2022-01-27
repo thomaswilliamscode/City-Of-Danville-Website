@@ -66,4 +66,14 @@ header div.nav-content{
 }
 
 
+/* after this we start on main. section link*/
+
+section#link{
+}
+img#main-img {
+  margin-left:-10px;
+  max-height:150vh;
+  max-width:100vw;
+}
+
 
